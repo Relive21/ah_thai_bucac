@@ -1,2 +1,10 @@
+// hey this is a comment
 console.log("Anh Thai Ngu VCL")
-//line 2
+console.log("Anh Thai Ngu VCL") // 2nd time!
+
+function main() {
+return null;
+)
+main()
+  
+consol.log(main)
